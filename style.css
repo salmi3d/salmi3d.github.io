@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 24px;
+	font-size: 28px;
 	color: #333;
 	margin: 0;
 	padding: 10px;
@@ -25,12 +25,12 @@ a:hover {
 }
 
 ::-moz-selection {
-	color: white; 
+	color: white;
 	background: #1A6DBB;
 }
 
 ::selection {
-	color: white; 
+	color: white;
 	background: #1A6DBB;
 }
 
